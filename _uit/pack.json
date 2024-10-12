@@ -1,0 +1,7 @@
+{
+	"description": "|> [by Novikond]\n|> [UI TOOLS]\n\nA simple library that was originally made for SaraHUD",
+	"name": "UIT",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [220, 45, 100]
+}
